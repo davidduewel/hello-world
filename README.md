@@ -1,2 +1,2 @@
 # hello-world
-My first share
+Bonjour world!  This is my first share on GitHub
